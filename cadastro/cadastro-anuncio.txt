@@ -8,3 +8,4 @@
 - observaçoes
 - preço
 - dados de contato
+- destacar anuncio
