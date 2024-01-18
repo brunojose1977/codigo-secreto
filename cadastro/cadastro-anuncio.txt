@@ -1,0 +1,10 @@
+#Cadastro de num anuncio
+
+- marca
+- modelo
+- ano modelo
+- km
+- lista de acessorios
+- observaçoes
+- preço
+- dados de contato
